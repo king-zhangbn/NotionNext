@@ -72,3 +72,4 @@ webpack-internal:/
 .reasonix/desktop-topic-title-sources.json
 .reasonix/desktop-topic-titles.json
 reasonix.toml
+/.reasonix
