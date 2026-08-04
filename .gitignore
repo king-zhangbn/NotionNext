@@ -68,3 +68,7 @@ package-lock.json
 .perf/
 tsconfig.tsbuildinfo
 webpack-internal:/
+.reasonix/desktop-topic-created-at.json
+.reasonix/desktop-topic-title-sources.json
+.reasonix/desktop-topic-titles.json
+reasonix.toml

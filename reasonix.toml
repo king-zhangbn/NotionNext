@@ -1,2 +1,2 @@
 [permissions]
-allow = ["Bash=git remote -v && echo \"---\" && git branch -a && echo \"---\" && git status"]
+allow = ["Bash=git remote -v && echo \"---\" && git branch -a && echo \"---\" && git status", "Bash(npm run dev:*)"]
